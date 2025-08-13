@@ -1,7 +1,17 @@
 # Melissa-Tosti-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=melissatosti&hide=contribs,prs)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&size_weight=0.5&count_weight=0.5)
+•🎓 ***universitaria*** em ads
 
+•📚 cursando ***ml e ia***
+
+•🤸🏽‍♀️ amo esportes
+
+•💻 atualmente focada em:
+
+
+<img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/> <img width="64" height="64" src="https://img.icons8.com/hatch/64/xbox-r.png" alt="xbox-r"/> <img width="48" height="48" src="https://img.icons8.com/color/48/power-bi.png" alt="power-bi"/>
+
+
+![Anurag's GitHub stats]
 advinha.py 
 ```markdown
 #import random
