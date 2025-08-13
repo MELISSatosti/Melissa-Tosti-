@@ -1,5 +1,5 @@
 # Melissa-Tosti-
-•🎓 ***universitaria*** em ads
+•🎓 ***universitaria*** em análise desenvolvimento de sistemas 
 
 •📚 cursando ***ml e ia***
 
